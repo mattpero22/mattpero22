@@ -2,7 +2,7 @@
 As an emerging software engineer who is a creative problem solver and critical thinker, 
 I like to challenge myself with my projects and take pride in a job well done.
 ### About Me
-- From: Brookyln. NY
+- From: Brooklyn. NY
 - Favorite language: Python
 - Favorite activity (other than programming): Swimming or Hiking
 ### Currently Learning
