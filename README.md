@@ -1,16 +1,21 @@
 # Hello! I am Matthew Pero and welcome to my Github!
-As an emerging software engineer who is a creative problem solver and critical thinker, 
-I like to challenge myself with my projects and take pride in a job well done.
+As a software engineer transitioning from mechanical engineering, I am a creative problem solver and critical thinker, 
+that likes a challenge and takes pride in a job well done. 
+
 ### About Me
 - From: Brooklyn. NY
-- Favorite language: Python
-- Favorite activity (other than programming): Swimming or Hiking
-### Currently Learning
+- Favorite programming language: Python
+- Favorite activities (other than programming): Swimming, Video Games, Hiking
+
+### Currently Studying
 - HTML
 - CSS
 - JS
-- jQuery
+- React
 - Python
+- Python Libs (numpy, matplotlib, pandas)
+- SQL
+
 ### Current Projects
 - [Pokemon Auto Battle Game](https://github.com/mattpero22/pokemonAutoBattler)
  
