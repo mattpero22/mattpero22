@@ -18,6 +18,7 @@ that likes a challenge and takes pride in a job well done.
 
 ### Current Projects
 - [Pokemon Auto Battle Game](https://github.com/mattpero22/pokemonAutoBattler)
+- [Portfolio Website 2](https://github.com/mattpero22/minimal-portfolio-site)
  
 ### Connect with me
 - [LinkedIn](https://www.linkedin.com/in/matthew-pero22/)
