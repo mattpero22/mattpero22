@@ -17,8 +17,9 @@ that likes a challenge and takes pride in a job well done.
 - SQL
 
 ### Current Projects
-- [Pokemon Auto Battle Game](https://github.com/mattpero22/pokemonAutoBattler)
 - [Portfolio Website 2](https://github.com/mattpero22/minimal-portfolio-site)
+- [Pokemon Auto Battle Game](https://github.com/mattpero22/pokemonAutoBattler)
+- [P3 Password Manager](https://github.com/mattpero22/pero_password_protector)
  
 ### Connect with me
 - [LinkedIn](https://www.linkedin.com/in/matthew-pero22/)
