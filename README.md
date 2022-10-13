@@ -3,7 +3,7 @@ As a software engineer transitioning from mechanical engineering, I am a creativ
 that likes a challenge and takes pride in a job well done.
 
 ### Check out my achievements
-mattpero.com
+- [mattpero.com](mattpero.com)
 
 ### About Me
 - From: Brooklyn. NY
