@@ -1,5 +1,5 @@
 # Hello! I am Matthew Pero and welcome to my Github!
-As a software engineer transitioning from mechanical engineering, I am a creative problem solver and critical thinker, 
+As a software engineer transitioning from mechanical engineering, I am a creative problem solver and critical thinker
 that likes a challenge and takes pride in a job well done.
 
 ### Check out my achievements
