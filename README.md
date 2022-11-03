@@ -2,7 +2,7 @@
 As a software engineer transitioning from mechanical engineering, I am a creative problem solver and critical thinker
 that likes a challenge and takes pride in a job well done.
 
-### Check out my achievements
+### Check out my portfolio
 - [mattpero.com](https://www.mattpero.com/)
 
 ### About Me
@@ -11,13 +11,12 @@ that likes a challenge and takes pride in a job well done.
 - Favorite activities (other than programming): Swimming, Video Games, Hiking
 
 ### Currently Studying
-- HTML
-- CSS
 - JS
 - React
 - Python
 - Python Libs (numpy, matplotlib, pandas)
 - SQL
+- Unity and C#
 
 ### Current Projects
 - [Portfolio Website 2](https://github.com/mattpero22/minimal-portfolio-site)
