@@ -14,9 +14,7 @@ that likes a challenge and takes pride in a job well done.
 - JS
 - React
 - Python
-- Python Libs (numpy, matplotlib, pandas)
-- SQL
-- Unity and C#
+- JWTs
 
 ### Current Projects
 - [Portfolio Website 2](https://github.com/mattpero22/minimal-portfolio-site)
