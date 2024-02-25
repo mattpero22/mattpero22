@@ -16,5 +16,6 @@ Former mechanical engineer turned software engineer with a passion for problem s
 - Python for Data Science and Visualisation
 
 ### Connect with me
-- [LinkedIn](https://www.linkedin.com/in/matthew-pero22/)
-- [Codewars](https://www.codewars.com/users/m4ttper0)
+[LinkedIn](https://www.linkedin.com/in/matthew-pero22/)
+[Codewars](https://www.codewars.com/users/m4ttper0)
+![image](https://www.codewars.com/users/m4ttper0/badges/large)
