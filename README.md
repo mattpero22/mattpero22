@@ -9,6 +9,10 @@ Former mechanical engineer turned software engineer with a passion for problem s
 - Favorite programming language: Python
 - Favorite activities (other than programming): Swimming, Video Games, Hiking
 
+### Work History
+- [Consumer Priority Service](https://www.cpscentral.com/) * [mattCPS](https://github.com/mattCPS)
+- [Ametek Rotron](https://www.rotron.com/)
+
 ### Currently Studying
 - Next.js
 - React
