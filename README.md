@@ -15,7 +15,7 @@ Former mechanical engineer turned software engineer with a passion for problem s
 
 ### Currently Studying
 - Next.js
-- React
+- Gatsby
 - SQL
 - Python for Data Science and Visualisation
 
