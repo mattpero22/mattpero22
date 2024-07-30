@@ -14,10 +14,10 @@ Former mechanical engineer turned software engineer with a passion for problem s
 - [Ametek Rotron](https://www.rotron.com/)
 
 ### Currently Studying
-- Next.js
-- Gatsby
+- React
+- Nect.js
 - SQL
-- Python for Data Science and Visualisation
+- Data Analysis via SQL
 
 ### Connect with me
 - [LinkedIn](https://www.linkedin.com/in/matthew-pero22/)
