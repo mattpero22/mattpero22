@@ -15,9 +15,8 @@ Former mechanical engineer turned software engineer with a passion for problem s
 
 ### Currently Studying
 - React
-- Nect.js
 - SQL
-- Data Analysis via SQL
+- Data Analysis via SQL and Pandas
 
 ### Connect with me
 - [LinkedIn](https://www.linkedin.com/in/matthew-pero22/)
