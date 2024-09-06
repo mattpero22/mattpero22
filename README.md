@@ -15,6 +15,7 @@ Former mechanical engineer turned software engineer with a passion for problem s
 
 ### Currently Studying
 - React
+- Python
 - SQL
 - Data Analysis via SQL and Pandas
 
