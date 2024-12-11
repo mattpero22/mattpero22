@@ -16,8 +16,8 @@ Former mechanical engineer turned software engineer with a passion for problem s
 ### Currently Studying
 - React
 - Python
-- SQL
-- Data Analysis via SQL and Pandas
+- SQL and Sequelize
+- Data Structures and Algorithms
 
 ### Connect with me
 - [LinkedIn](https://www.linkedin.com/in/matthew-pero22/)
