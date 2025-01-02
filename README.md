@@ -1,6 +1,3 @@
-# Hello! I am Matthew Pero and welcome to my Github!
-Former mechanical engineer turned software engineer with a passion for problem solving.
-
 ### Check out my portfolio
 - [mattpero.com](https://www.mattpero.com/)
 
